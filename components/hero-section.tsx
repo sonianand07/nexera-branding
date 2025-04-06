@@ -33,7 +33,7 @@ export default function HeroSection() {
           <div className="relative">
             <div className="relative rounded-lg overflow-hidden shadow-xl">
               <img
-                src="/placeholder.svg?height=600&width=800"
+                src="/HeroImage.png"
                 alt="AI-generated brand assets showcase"
                 className="w-full h-auto"
               />
